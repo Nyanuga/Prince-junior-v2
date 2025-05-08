@@ -8,7 +8,7 @@
 [![JUNIOR](https://github.com/TeddyDommie.png?lenght=50width=50)](https://github.com/TeddyDommie)
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=PRINCE+JUNIOR+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=PRINCE+JUNIOR+V2+BOT" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Junior-blue.svg?style=for-the-badge&logo=github"></a>
@@ -16,7 +16,7 @@
 <p align="center">
 <a href="https://github.com/TeddyDommie?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/TeddyDommie?label=Followers&style=social"></a>
 <a href="https://github.com/Nyanunga/Prince-Junior-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Nyanunga/Prince-Junior-v2?&style=social"></a>
-<a href="https://github.com/Nyanunga/Prince-Junior-/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Nyanunga/Prince-Junior-?style=social"></a>
+<a href="https://github.com/Nyanuga/Prince-junior-v2/fork"><img title="Fork" src="https://img.shields.io/github/forks/Nyanunga/Prince-Junior-?style=social"></a>
 <a href="https://github.com/Nyanunga/Prince-Junior-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Nyanunga/Prince-Junior-v2?label=Watching&style=social"></a>
 </p>
  
@@ -25,7 +25,7 @@
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=254723245807&text=Hello+Junior"><img src="https://img.shields.io/badge/Contact 🅼🆉🅰🆉🅸-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=254723245807&text=Hello+Junior"><img src="https://img.shields.io/badge/Contact JUNIOR EZED-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/Baileys)***
