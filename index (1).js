@@ -36,14 +36,14 @@ const color = (text, color) => {
   return !color ? chalk.green(text) : chalk.keyword(color)(text);
 };
 
-async function startMzazi() {
+async function startPrice_Junior_v2() {
                  await authenticationn();  
   const { state, saveCreds } = await useMultiFileAuthState("session");
   const { version, isLatest } = await fetchLatestBaileysVersion();
   console.log(`using WA v${version.join(".")}, isLatest: ${isLatest}`);
   console.log(
     color(
-      figlet.textSync("MZAZI", {
+      figlet.textSync("PRINCE JUNIOR", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
