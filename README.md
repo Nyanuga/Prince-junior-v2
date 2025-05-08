@@ -43,14 +43,9 @@ Our AI features use random APIs to run, so sometimes they may be down.
 <p/>
   
 Linking/Pairing:
-## ` Pair onrender`
-<p align="centre">
-<a href="https://mzazi-xmd-session-1.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-pink?style=for-the-badge&logo=render"></a>
-<p/>
-
 ### 𝗜𝗙 𝗧𝗛𝗘 𝗙𝗜𝗥𝗦𝗧 𝗜𝗦 𝗦𝗟𝗢𝗪 𝗨𝗦𝗘 𝗧𝗛𝗜𝗦
 <p align="centre">
-<a href="https://mzazi-xmd-session-2.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-pink?style=for-the-badge&logo=render"></a>
+<a href="https://sessionidfix-b796c2635b90.herokuapp.com/"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-pink?style=for-the-badge&logo=render"></a>
 <p/>            
 
 ###  𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨:
