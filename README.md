@@ -1,6 +1,6 @@
 <h1>PRINCE JUNIOR V2 </h1>
 
-# 𝐏𝐑𝐈𝐍𝐂𝐄 𝐉𝐔𝐍𝐈𝐎𝐑 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓
+# 𝐏𝐑𝐈𝐍𝐂𝐄 𝐉𝐔𝐍𝐈𝐎𝐑 <h1>V2</h1>𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓
 
   
 <p align="center">
@@ -39,7 +39,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ## ` Fork this repo`
 <p align="centre">
-<a href="https://github.com/Nyanunga/Prince-Junior-v2/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="https://github.com/Nyanunga/Prince-Junior-v2/fork" width="160"></a>
+<a href="https://github.com/Nyanuga/Prince-junior-v2/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="https://github.com/Nyanunga/Prince-Junior-v2/fork" width="160"></a>
 <p/>
   
 Linking/Pairing:
