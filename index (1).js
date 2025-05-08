@@ -2,7 +2,7 @@
         and don't forget to say hi to your partner. */
 
 const {
-  default: mzaziConnect,
+  default: juniorConnect,
   useMultiFileAuthState,
   DisconnectReason,
   fetchLatestBaileysVersion,
@@ -53,10 +53,10 @@ async function startMzazi() {
     )
   );
 
-  const client = mzaziConnect({
+  const client = juniorConnect({
     logger: pino({ level: "silent" }),
     printQRInTerminal: true,
-    browser: ["Prince-Junior", "Safari", "5.1.7"],
+    browser: ["Prince-Junior-v2", "Safari", "5.1.7"],
     auth: state,
     syncFullHistory: true,
   });
@@ -90,7 +90,7 @@ async function startMzazi() {
       if (!client.public && !mek.key.fromMe && chatUpdate.type === "notify") return;
 
       let m = smsg(client, mek, store);
-      const mzazi = require("./mzazi");
+      const mzazi = require("./prince junior v2");
       mzazi(client, m, chatUpdate, store);
     } catch (err) {
       console.log(err);
@@ -205,10 +205,10 @@ async function startMzazi() {
       }
     } else if (connection === "open") {
       await client.groupAcceptInvite("ErhgRpemSxKDWJunjNr3yw");
-      console.log(color("Congrats, MZAZI-XMD has successfully connected to this server", "green"));
+      console.log(color("Congrats, PRINCE-JUNIOR-V2 has successfully connected to this server", "green"));
       console.log(color("Follow me on Instagram as Nick_hunter9", "red"));
       console.log(color("Text the bot number with menu to check my command list"));
-      client.sendMessage(client.user.id, { text: `> 𝗕𝗼𝘁 𝐢𝐬 𝗼𝗻𝗹𝗶𝗻𝗲【𝗠𝗭𝗔𝗭𝗜-𝗫𝗠𝗗】𝗶𝗳 𝘆𝗼𝘂 𝗻𝗲𝗲𝗱 𝗮𝗻𝘆 𝗵𝗲𝗹𝗽, 𝘁𝗲𝐱𝐭 𝗺𝗲 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 +254798956113 𝗼𝗿 𝗮𝗻𝘆 𝗶𝘀𝘀𝘂𝗲` });
+      client.sendMessage(client.user.id, { text: `> 𝗕𝗼𝘁 𝐢𝐬 𝗼𝗻𝗹𝗶𝗻𝗲【<h5>PRINCE JUNIOR V2</h5>】𝗶𝗳 𝘆𝗼𝘂 𝗻𝗲𝗲𝗱 𝗮𝗻𝘆 𝗵𝗲𝗹𝗽, 𝘁𝗲𝐱𝐭 𝗺𝗲 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 +254798956113 𝗼𝗿 𝗮𝗻𝘆 𝗶𝘀𝘀𝘂𝗲` });
     }
   });
   client.ev.on("creds.update", saveCreds);
@@ -250,7 +250,7 @@ async function startMzazi() {
     let type = '', mimetype = mime, pathFile = filename;
     if (options.asDocument) type = 'document';
     if (options.asSticker || /webp/.test(mime)) {
-      let { writeExif } = require('./lib/mzaziexif.js');
+      let { writeExif } = require('./lib/princejuniorv2exif.js');
       let media = { mimetype: mime, data };
       pathFile = await writeExif(media, { packname: packname, author: packname, categories: options.categories ? options.categories : [] });
       await fs.promises.unlink(filename);
