@@ -237,7 +237,7 @@ const handleCommand = async (client, m, cmd, command, prefix, mode, dreadedspeed
             case "menu":
                 await mp3d();
 
-                let cap = `𝗛𝗲𝘆 ${m.pushName}😁, ${getGreeting()}\n\n𝐓𝐡𝐢𝐬 𝐢𝐬 𝐌𝐙𝐀𝐙𝐈-𝐗𝐌𝐃, 𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐛𝐲 𝐌𝐳𝐚𝐳𝐢\n\n╭═════〘 𝐌𝐙𝐀𝐙𝐈-𝐗𝐌𝐃 〙═════╮
+                let cap = `𝗛𝗲𝘆 ${m.pushName}😁, ${getGreeting()}\n\n𝐓𝐡𝐢𝐬 𝐢𝐬 <h4>PRINCE-JUNIOR-V2<h4/>, 𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐛𝐲 JUNIOR EZED\n\n╭═════〘 PRINCE JUNIOR V2〙═════╮
 ╭═─────────────────═╮
 │ 𝗨𝘀𝗲𝗿 : ${m.pushName}
 │ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 : 𝐉𝐔𝐍𝐈𝐎𝐑
@@ -247,7 +247,7 @@ const handleCommand = async (client, m, cmd, command, prefix, mode, dreadedspeed
 │ 𝗧𝗶𝗺𝗲 : ${getCurrentTimeInNairobi()} on ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi' })}
 │ 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗥𝗔𝗠 : 16𝗚𝗕 𝗼𝗳 32𝗚𝗕
 │═════════════════════
-│𝐓𝐇𝐈𝐒 𝐈𝐒 𝐏𝐑𝐈𝐍𝐂𝐄-𝐉𝐔𝐍𝐈𝐎𝐑 𝐁𝐎𝐓
+│𝐓𝐇𝐈𝐒 𝐈𝐒 𝐏𝐑𝐈𝐍𝐂𝐄-𝐉𝐔𝐍𝐈𝐎𝐑-V2 𝐁𝐎𝐓
 ╰═─────────────────═╯    
 ●════ 〘 𝐍𝐨𝐫𝐦𝐚𝐥 〙═──═●
 ╭══───────◇───────══╮
@@ -262,7 +262,7 @@ const handleCommand = async (client, m, cmd, command, prefix, mode, dreadedspeed
 │ 𝐏𝐥𝐚𝐲2
 ╰══───────◇───────══╯
 𝐓𝐡𝐚𝐧𝐤𝐬 𝐭𝐨:
-𝐌𝐙𝐀𝐙𝐈 (𝐁𝐨𝐭 𝐁𝐚𝐬𝐞)
+PRINCE JUNIOR V2 (𝐁𝐨𝐭 𝐁𝐚𝐬𝐞)
 𝐎𝐭𝐡𝐞𝐫 𝐢𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠 𝐲𝐨𝐮
  `;
 
@@ -286,10 +286,10 @@ client.sendMessage(m.chat, {
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: `PRINCE-JUNIOR`,
+                                title: `PRINCE-JUNIOR-V2`,
                                 body: `${runtime(process.uptime())}`,
                                 thumbnail: fs.readFileSync('./Media/mzazi.jpg'),
-                                sourceUrl: 'https://wa.me/254741388986?text=Hello👋+Mzazi+Nihostie+Bot+Mkuu+😔',
+                                sourceUrl: 'https://wa.me/254723245807?text=Hello👋+Junior+Nihostie+Bot+Mkuu+😔',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -338,7 +338,7 @@ const fetch = require("node-fetch");
         {
           video: { url: videoData.downloadUrl },
           mimetype: "video/mp4",
-          caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 PRINCE-JUNIOR",
+          caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 PRINCE-JUNIOR-V2",
         },
         { quoted: m }
       );
@@ -346,7 +346,7 @@ const fetch = require("node-fetch");
       return;
     } else {
       
-      return reply(client, m, "𝑼𝒏𝒂𝒃𝒍𝒆 𝒕𝒐 𝒇𝒆𝒕𝒄𝒉 𝒕𝒉𝒆 𝒗𝒊𝒅𝒆𝒐. 𝑷𝒍𝒆𝒂𝒔𝒆 𝒕𝒓𝒚 𝒂𝒈𝒂𝒊𝒏 𝒍𝒂𝒕𝒆𝒓, 𝒎𝒛𝒂𝒛𝒊 𝒊𝒔 𝒇𝒐𝒓 𝒚𝒐𝒖😂.\n\n> ©𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 PRINCE-JUNIOR");
+      return reply(client, m, "𝑼𝒏𝒂𝒃𝒍𝒆 𝒕𝒐 𝒇𝒆𝒕𝒄𝒉 𝒕𝒉𝒆 𝒗𝒊𝒅𝒆𝒐. 𝑷𝒍𝒆𝒂𝒔𝒆 𝒕𝒓𝒚 𝒂𝒈𝒂𝒊𝒏 𝒍𝒂𝒕𝒆𝒓, prince junior  𝒊𝒔 𝒇𝒐𝒓 𝒚𝒐𝒖😂.\n\n> ©𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 PRINCE-JUNIOR");
     }
   } catch (error) {
  
@@ -366,14 +366,14 @@ break;
 
 		      case "lyrics2": 
  try { 
- if (!text) return reply("𝑷𝒓𝒐𝒗𝒊𝒅𝒆 𝒂 𝒔𝒐𝒏𝒈 𝒏𝒂𝒎𝒆!\n\n> ©𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 PRINCE-JUNIOR"); 
+ if (!text) return reply("𝑷𝒓𝒐𝒗𝒊𝒅𝒆 𝒂 𝒔𝒐𝒏𝒈 𝒏𝒂𝒎𝒆!\n\n> ©𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 PRINCE-JUNIOR-V2"); 
  const searches = await Client.songs.search(text); 
  const firstSong = searches[0]; 
  //await client.sendMessage(from, {text: firstSong}); 
  const lyrics = await firstSong.lyrics(); 
  await client.sendMessage(from, { text: lyrics}, { quoted: m }); 
  } catch (error) { 
-             reply(`𝑰 𝒅𝒊𝒅 𝒏𝒐𝒕 𝒈𝒊𝒏𝒅 𝒂𝒏𝒚 𝒍𝒚𝒓𝒊𝒄𝒔 𝒇𝒐𝒓 ${text}. 𝑻𝒓𝒚 𝒔𝒆𝒂𝒓𝒄𝒉𝒊𝒏𝒈 𝒂 𝒅𝒊𝒇𝒇𝒆𝒓𝒆𝒏𝒕 𝒔𝒐𝒏𝒈.\n\n> ©𝖕𝖔𝖜𝖊𝖗 𝖇𝖞 PRINCE-JUNIOR`); 
+             reply(`𝑰 𝒅𝒊𝒅 𝒏𝒐𝒕 𝒈𝒊𝒏𝒅 𝒂𝒏𝒚 𝒍𝒚𝒓𝒊𝒄𝒔 𝒇𝒐𝒓 ${text}. 𝑻𝒓𝒚 𝒔𝒆𝒂𝒓𝒄𝒉𝒊𝒏𝒈 𝒂 𝒅𝒊𝒇𝒇𝒆𝒓𝒆𝒏𝒕 𝒔𝒐𝒏𝒈.\n\n> ©𝖕𝖔𝖜𝖊𝖗 𝖇𝖞 PRINCE-JUNIOR-V2`); 
              console.log(error); 
          } 
  //const artist = await Client.artists.get(456537); 
@@ -385,11 +385,11 @@ break;
  const yts = require("yt-search");
 
     try {
-        if (!text) return m.reply("𝑾𝒉𝒂𝒕 𝒔𝒐𝒏𝒈 𝒅𝒐 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒅𝒐𝒘𝒏𝒍𝒐𝒂𝒅?\n\n> ©𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 PRINCE-JUNIOR");
+        if (!text) return m.reply("𝑾𝒉𝒂𝒕 𝒔𝒐𝒏𝒈 𝒅𝒐 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒅𝒐𝒘𝒏𝒍𝒐𝒂𝒅?\n\n> ©𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 PRINCE-JUNIOR-V2");
 
         const { videos } = await yts(text);
         if (!videos || videos.length === 0) {
-            return m.reply("𝑵𝒐 𝒔𝒐𝒏𝒈 𝒇𝒐𝒖𝒏𝒅!\n\n> ©𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 PRINCE-JUNIOR");
+            return m.reply("𝑵𝒐 𝒔𝒐𝒏𝒈 𝒇𝒐𝒖𝒏𝒅!\n\n> ©𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 PRINCE-JUNIOR-V2");
         }
 
         const urlYt = videos[0].url;
@@ -404,14 +404,14 @@ break;
                 {
                     document: { url: audioUrl },
                     mimetype: "audio/mpeg",
-		    caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕Y PRINCE-JUNIOR",
+		    caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕Y PRINCE-JUNIOR-V2",
                     fileName: `${title}.mp3`,
                 },
                 { quoted: m }
             );
         } catch (error) {
             console.error("API request failed:", error.message);
-            m.reply("𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝒇𝒂𝒊𝒍𝒆𝒅: 𝑼𝒏𝒂𝒃𝒍𝒆 𝒕𝒐 𝒓𝒆𝒕𝒓𝒊𝒆𝒗𝒆.\n\n> ©𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 PRINCE-JUNIOR");
+            m.reply("𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝒇𝒂𝒊𝒍𝒆𝒅: 𝑼𝒏𝒂𝒃𝒍𝒆 𝒕𝒐 𝒓𝒆𝒕𝒓𝒊𝒆𝒗𝒆.\n\n> ©𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 PRINCE-JUNIOR-V2");
         }
     } catch (error) {
         m.reply("Download failed\n" + error.message);
@@ -427,10 +427,10 @@ default: {
             if (!budy.toLowerCase()) return;
             if (argsLog || (cmd && !m.isGroup)) {
               // client.sendReadReceipt(m.chat, m.sender, [m.key.id])
-              console.log(chalk.black(chalk.bgRed("[ ERROR ]")), color("command", "turquoise"), color(`${prefix}${command}`, "turquoise"), color("Mzazi", "turquoise"));
+              console.log(chalk.black(chalk.bgRed("[ ERROR ]")), color("command", "turquoise"), color(`${prefix}${command}`, "turquoise"), color("Prince Junior v2", "turquoise"));
             } else if (argsLog || (cmd && m.isGroup)) {
               // client.sendReadReceipt(m.chat, m.sender, [m.key.id])
-              console.log(chalk.black(chalk.bgRed("[ ERROR ]")), color("command", "turquoise"), color(`${prefix}${command}`, "turquoise"), color("Mzazi", "turquoise"));
+              console.log(chalk.black(chalk.bgRed("[ ERROR ]")), color("command", "turquoise"), color(`${prefix}${command}`, "turquoise"), color("Prince Junior v2", "turquoise"));
             }
           }
         }
