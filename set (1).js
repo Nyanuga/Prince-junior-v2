@@ -16,7 +16,7 @@ const gptdm = process.env.GPT_INBOX || 'FALSE';
 const mode = process.env.MODE || 'PUBLIC';
 const antidel = process.env.ANTIDELETE || 'TRUE';
 
-const botname = process.env.BOTNAME || 'PRINCE-JUNIOR';
+const botname = process.env.BOTNAME || 'PRINCE-JUNIOR-V2';
 const antibot = process.env.ANTIBOT || 'FALSE';
 const author = process.env.STICKER_AUTHOR ||'𝗕𝗢𝗧';
 const packname = process.env.STICKER_PACKNAME || 'PRINCE';
