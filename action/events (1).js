@@ -1,5 +1,5 @@
 const welcomegoodbye = process.env.WELCOMEGOODBYE || "FALSE";
-const botname = process.env.BOTNAME || "𝗠𝗭𝗔𝗭𝗜-𝗫𝗠𝗗";
+const botname = process.env.BOTNAME || "PRINCE JUNIOR V2",;
 
 const Events = async (sock, update) => {
   try {
@@ -27,7 +27,7 @@ const Events = async (sock, update) => {
 
       if (update.action === 'add') {
         let welcomeText =
-          `*MZAZI-XMD BOT WELCOMING YOU*\n\n` +
+          `*PRINCE JUNIOR. V2 BOT WELCOMING YOU*\n\n` +
           `${username} Holla👋,\n\nWelcome to *${groupName}*!\n` +
           `You're the ${participantCount}ᵗʰ member.\n` +
           `Joined on: ${nairobiTime}\n\n` +
@@ -45,7 +45,7 @@ const Events = async (sock, update) => {
 
       } else if (update.action === 'remove') {
         let goodbyeText =
-          `*MZAZI-XMD BOT SAYING GOODBYE*\n\n` +
+          `*PRINCE JUNIOR V2 BOT SAYING GOODBYE*\n\n` +
           `${username} has left the group.\n` +
           `Left on: ${nairobiTime}\n` +
           `Remaining members: ${participantCount}\n\n` +
