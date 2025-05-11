@@ -1,6 +1,6 @@
 {
   "name": "PRINCE JUNIOR V2",
-  "description": "Javascript WhatsApp bot made by PRINCE-JUNIOR-V2",
+  "description": "Javascript WhatsApp bot made by Junior Ezed",
   "keywords": ["PRINCE JUNIOR V2"],
   
   
@@ -25,7 +25,7 @@
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> PRINCE JUNIOR V2 AM ONLINE BY JUNIOR EZED ⚡"
+      "value": "> PRINCE JUNIOR V2 AM ONLINE MADE BY JUNIOR EZED ⚡"
     },
     
     "PREFIX": {
@@ -82,7 +82,7 @@
     "AUTO_STATUS__MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 𝙹𝚄𝚂𝚃 𝙽𝙾𝚆 𝚂𝙴𝙴𝙽 𝙱𝚈 PRINCE JUNIOR V2 🤩🥳😍*"
+      "value": "*🎉👀 JUST NOW SEEN BY PRINCE JUNIOR V2 🤩🥳😍*"
     }, 
 
     "OWNER_NAME": {
