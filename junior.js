@@ -18,10 +18,10 @@ const ytdl = require("ytdl-core");
 const Client = new Genius.Client("TUoAEhL79JJyU-MpOsBDkFhJFWFH28nv6dgVgPA-9R1YRwLNP_zicdX2omG2qKE8gYLJat5F5VSBNLfdnlpfJg"); // Scrapes if no key is provided
 const { TelegraPh, UploadFileUgu, webp2mp4File, floNime } = require('./lib/mzaziupload');
 const { Configuration, OpenAI } = require("openai");
-const { menu, autoread, mode, antidel, antitag, appname, herokuapi, gptdm, botname, antibot, prefix, author, packname, mycode, admin, botAdmin, dev, group, bad, DevMzazi, NotOwner, antilink, antilinkall, wapresence, badwordkick } = require("./set.js");
-const { smsg, runtime, fetchUrl, isUrl, processTime, formatp, tanggal, formatDate, getTime,  sleep, generateProfilePicture, clockString, fetchJson, getBuffer, jsonformat, format, parseMention, getRandom } = require('./lib/mzazifunc');
+const { menu, autoread, mode, antidel, antitag, appname, herokuapi, gptdm, botname, antibot, prefix, author, packname, mycode, admin, botAdmin, dev, group, bad, DevJunior, NotOwner, antilink, antilinkall, wapresence, badwordkick } = require("./set.js");
+const { smsg, runtime, fetchUrl, isUrl, processTime, formatp, tanggal, formatDate, getTime,  sleep, generateProfilePicture, clockString, fetchJson, getBuffer, jsonformat, format, parseMention, getRandom } = require('./lib/juniorfunc');
 const { exec, spawn, execSync } = require("child_process");
-module.exports = mzazi = async (client, m, chatUpdate, store) => {
+module.exports = prince junior = async (client, m, chatUpdate, store) => {
   try {
     var body =
       m.mtype === "conversation"
@@ -77,7 +77,7 @@ module.exports = mzazi = async (client, m, chatUpdate, store) => {
 
     const cmd = body.startsWith(prefix);
     const badword = bad.split(",");
-    const Owner = DevMzazi.map((v) => v.replace(/[^0-9]/g, "") + "@s.whatsapp.net").includes(m.sender)
+    const Owner = DevJunior.map((v) => v.replace(/[^0-9]/g, "") + "@s.whatsapp.net").includes(m.sender)
     
     // Group
   const groupMetadata = m.isGroup ? await client.groupMetadata(m.chat).catch((e) => {}) : "";
@@ -262,7 +262,9 @@ const handleCommand = async (client, m, cmd, command, prefix, mode, dreadedspeed
 │ 𝐏𝐥𝐚𝐲2
 ╰══───────◇───────══╯
 𝐓𝐡𝐚𝐧𝐤𝐬 𝐭𝐨:
-PRINCE JUNIOR V2 (𝐁𝐨𝐭 𝐁𝐚𝐬𝐞)
+PRINCE JUNIOR 
+JUNIOR EZED
+ROSEMARY(𝐁𝐨𝐭 𝐁𝐚𝐬𝐞)
 𝐎𝐭𝐡𝐞𝐫 𝐢𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠 𝐲𝐨𝐮
  `;
 
@@ -288,7 +290,7 @@ client.sendMessage(m.chat, {
                                 showAdAttribution: true,
                                 title: `PRINCE-JUNIOR-V2`,
                                 body: `${runtime(process.uptime())}`,
-                                thumbnail: fs.readFileSync('./Media/mzazi.jpg'),
+                                thumbnail: fs.readFileSync('./Media/junior.jpg'),
                                 sourceUrl: 'https://wa.me/254723245807?text=Hello👋+Junior+Nihostie+Bot+Mkuu+😔',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -346,7 +348,7 @@ const fetch = require("node-fetch");
       return;
     } else {
       
-      return reply(client, m, "𝑼𝒏𝒂𝒃𝒍𝒆 𝒕𝒐 𝒇𝒆𝒕𝒄𝒉 𝒕𝒉𝒆 𝒗𝒊𝒅𝒆𝒐. 𝑷𝒍𝒆𝒂𝒔𝒆 𝒕𝒓𝒚 𝒂𝒈𝒂𝒊𝒏 𝒍𝒂𝒕𝒆𝒓, prince junior  𝒊𝒔 𝒇𝒐𝒓 𝒚𝒐𝒖😂.\n\n> ©𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 PRINCE-JUNIOR");
+      return reply(client, m, "𝑼𝒏𝒂𝒃𝒍𝒆 𝒕𝒐 𝒇𝒆𝒕𝒄𝒉 𝒕𝒉𝒆 𝒗𝒊𝒅𝒆𝒐. 𝑷𝒍𝒆𝒂𝒔𝒆 𝒕𝒓𝒚 𝒂𝒈𝒂𝒊𝒏 𝒍𝒂𝒕𝒆𝒓, prince junior v2 𝒊𝒔 𝒇𝒐𝒓 𝒚𝒐𝒖😂.\n\n> ©𝖕𝖔𝖜𝖊𝖗𝖊𝖉 𝖇𝖞 PRINCE-JUNIOR");
     }
   } catch (error) {
  
