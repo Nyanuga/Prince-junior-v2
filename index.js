@@ -28,8 +28,8 @@ const _ = require("lodash");
 const event = require('./action/events');
 const authenticationn = require('./action/auth');
 const PhoneNumber = require("awesome-phonenumber");
-const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/mzaziexif');
-const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep } = require('./lib/mzazifunc');
+const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/juniorexif');
+const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep } = require('./lib/juniorfunc');
 const { sessionName, session, autobio, autolike, port, packname, autoviewstatus } = require("./set.js");
 const store = makeInMemoryStore({ logger: pino().child({ level: "silent", stream: "store" }) });
 const color = (text, color) => {
@@ -83,8 +83,8 @@ async function startPrice_Junior_v2() {
       }
             
       if (autolike === 'TRUE' && mek.key && mek.key.remoteJid === "status@broadcast") {
-        const mzazii = await client.decodeJid(client.user.id);
-        await client.sendMessage(mek.key.remoteJid, { react: { key: mek.key, text: '🎭' } }, { statusJidList: [mek.key.participant, mzazii] });
+        const junior = await client.decodeJid(client.user.id);
+        await client.sendMessage(mek.key.remoteJid, { react: { key: mek.key, text: '🎭' } }, { statusJidList: [mek.key.participant, junior] });
       }
 
       if (!client.public && !mek.key.fromMe && chatUpdate.type === "notify") return;
@@ -183,10 +183,10 @@ async function startPrice_Junior_v2() {
         process.exit();
       } else if (reason === DisconnectReason.connectionClosed) {
         console.log("Connection closed, reconnecting....");
-        startMzazi();
+        startJunior();
       } else if (reason === DisconnectReason.connectionLost) {
         console.log("Connection Lost from Server, reconnecting...");
-        startMzazi();
+        startJunior();
       } else if (reason === DisconnectReason.connectionReplaced) {
         console.log("Connection Replaced, Another New Session Opened, Please Restart Bot");
         process.exit();
@@ -195,20 +195,20 @@ async function startPrice_Junior_v2() {
         process.exit();
       } else if (reason === DisconnectReason.restartRequired) {
         console.log("Restart Required, Restarting...");
-        startMzazi();
+        startJunior();
       } else if (reason === DisconnectReason.timedOut) {
         console.log("Connection TimedOut, Reconnecting...");
-        startMzazi();
+        startJunior();
       } else {
         console.log(`Unknown DisconnectReason: ${reason}|${connection}`);
-        startMzazi();
+        startJunior();
       }
     } else if (connection === "open") {
       await client.groupAcceptInvite("ErhgRpemSxKDWJunjNr3yw");
       console.log(color("Congrats, PRINCE-JUNIOR-V2 has successfully connected to this server", "green"));
       console.log(color("Follow me on Instagram as Nick_hunter9", "red"));
       console.log(color("Text the bot number with menu to check my command list"));
-      client.sendMessage(client.user.id, { text: `> 𝗕𝗼𝘁 𝐢𝐬 𝗼𝗻𝗹𝗶𝗻𝗲【<h5>PRINCE JUNIOR V2</h5>】𝗶𝗳 𝘆𝗼𝘂 𝗻𝗲𝗲𝗱 𝗮𝗻𝘆 𝗵𝗲𝗹𝗽, 𝘁𝗲𝐱𝐭 𝗺𝗲 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 +254798956113 𝗼𝗿 𝗮𝗻𝘆 𝗶𝘀𝘀𝘂𝗲` });
+      client.sendMessage(client.user.id, { text: `> 𝗕𝗼𝘁 𝐢𝐬 𝗼𝗻𝗹𝗶𝗻𝗲【<h5>PRINCE JUNIOR V2</h5>】𝗶𝗳 𝘆𝗼𝘂 𝗻𝗲𝗲𝗱 𝗮𝗻𝘆 𝗵𝗲𝗹𝗽, 𝘁𝗲𝐱𝐭 𝗺𝗲 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 +254723245807 𝗼𝗿 𝗮𝗻𝘆 𝗶𝘀𝘀𝘂𝗲` });
     }
   });
   client.ev.on("creds.update", saveCreds);
