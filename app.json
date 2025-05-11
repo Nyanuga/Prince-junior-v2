@@ -14,20 +14,20 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Nyanuga/Prince junior-v2#readme",
-  "repository": "https://github.com/Nyanuga/Princejunior-v2.git",
+  "website": "https://github.com/Nyanuga/Prince-junior-v2#readme",
+  "repository": "https://github.com/Nyanuga/Prince-junior-v2.git",
   "logo": "https://telegra.ph/file/eebe191a0520a79979b34.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of MZAZI-XMD Ex: . , / , # , & etc. Put any symbol or leave it blank",
+      "description": "Prefix of PRINCE-JUNIOR-V2 Ex: . , / , # , & etc. Put any symbol or leave it blank",
       "required": false
 
     },
     "DEV": {
-  "description": "Put any phone numbers you want to be bot owner without + or spaces, separated by commas. Example: 254741388986,254100156216",
+  "description": "Put any phone numbers you want to be bot owner without + or spaces, separated by commas. Example: 254112843071,254723245807",
   "required": true,
-  "value": "254741388986"
+  "value": "254723245807"
 },
     "NOT_OWNER_MSG": {
       "description": "Put a message that the bot will send if a parameter that requires only owner user is violated. Example: Owner only",
@@ -56,8 +56,8 @@
       "required": false
     },
     "BAD_WORD_KICK": {
-      "description": "Put here TRUE if you want the bot to automatically kick group members using words that you have listed as bad",
-      "value": "FALSE",
+      "description": "Put here true if you want the bot to automatically kick group members using words that you have listed as bad",
+      "value": "false",
       "required": false
     },
     "GROUP_ONLY_MSG": {
@@ -66,13 +66,13 @@
       "required": false
     },
       "AUTOREAD": {
-      "description": "Put here TRUE if you want bot to automatically bluetick messages in private chats",
-        "value": "FALSE",
+      "description": "Put here true if you want bot to automatically bluetick messages in private chats",
+        "value": "false",
       "required": true
 },
  "AUTOVIEW": {
-      "description": "Input TRUE if you want bot to automatically read status update",
-   "value": "TRUE",
+      "description": "Input true if you want bot to automatically read status update",
+   "value": "true",
       "required": true
 },
  "WA_PRESENCE": {
@@ -81,24 +81,24 @@
       "required": true
 },
  "WELCOMEGOODBYE": {
-      "description": "Input TRUE if you want bot to welcome new members joining group or wave goodbye to members leaving a group.",
-      "value": "FALSE",
+      "description": "Input true if you want bot to welcome new members joining group or wave goodbye to members leaving a group.",
+      "value": "false",
       "required": false
 },
    
  "ANTILINK": {
-      "description": "Input TRUE if you want bot to kick link senders",
-   "value": "TRUE",
+      "description": "Input true if you want bot to kick link senders",
+   "value": "false",
       "required": true
 },
  "ANTILINK_ALL": {
-      "description": "Input TRUE if you want bot to kick users sending any links.",
-   "value": "TRUE",
+      "description": "Input true if you want bot to kick users sending any links.",
+   "value": "true",
       "required": true
 },
  "ANTIBOT": {
-      "description": "Input TRUE if you want bot to kick other bots from group",
-   "value": "TRUE",
+      "description": "Input true if you want bot to kick other bots from group",
+   "value": "true",
       "required": false
 },
  "CODE": {
@@ -111,14 +111,14 @@
       "required": true
 },
  "MODE": {
-      "description": "Input PRIVATE if you don't want other people to use your bot",
-   "value": "PUBLIC",
+      "description": "Input private if you don't want other people to use your bot",
+   "value": "public",
       "required": true
     },
     
  "AUTOBIO": {
       "description": "Input TRUE if you want bot to autoupdate its about with current time and date.",
-   "value": "TRUE",
+   "value": "true",
       "required": false
 },
  "APP_NAME": {
@@ -127,30 +127,30 @@
 },
  "STICKER_AUTHOR": {
       "description": "Input sticker data for author",
-   "value": "MZAZI",
+   "value": "JUNIOR",
       "required": false
 },
  "STICKER_PACKNAME": {
       "description": "Input sticker data for packname",
-   "value": "MZAZI",
+   "value": "JUNIOR",
       "required": false
 },
  "GPT_INBOX": {
       "description": "Input TRUE if you want bot to autoreply inbox messages using openai API.",
-   "value": "FALSE",
+   "value": "true",
       "required": false
 },
  "MENU_TYPE": {
       "description": "Input either VIDEO, LINK or IMAGE. This will allow bot to display different dynamic menu types",
-   "value": "LINK",
+   "value": "link",
       "required": false
 
     
     
     },
     "AUTOLIKE_STATUS": {
-      "description": "input TRUE if you want bot to autolike status updates. This will only work if autostatus view is TRUE",
-      "value": "TRUE",
+      "description": "input true if you want bot to autolike status updates. This will only work if autostatus view is true",
+      "value": "true",
       "required": false
     }
   },
