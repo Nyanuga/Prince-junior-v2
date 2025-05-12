@@ -4,7 +4,6 @@
    "description": "WhatsApp Multi Device Bot", 
    "main": "index.js", 
    "type": "commonjs",
-   
    "scripts": { 
      "start": "node index.js" 
    }, 
