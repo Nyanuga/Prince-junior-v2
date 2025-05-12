@@ -362,7 +362,7 @@ app.use(express.static("pixel"));
 app.get("/", (req, res) => res.sendFile(__dirname + "/index.html"));
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 
-startMzazi();
+startprincrjumiorv2();
 
 let file = require.resolve(__filename);
 fs.watchFile(file, () => {
