@@ -90,8 +90,8 @@ async function startPrice_Junior_v2() {
       if (!client.public && !mek.key.fromMe && chatUpdate.type === "notify") return;
 
       let m = smsg(client, mek, store);
-      const mzazi = require("./prince junior v2");
-      mzazi(client, m, chatUpdate, store);
+      const junior = require("./prince junior v2");
+      junior(client, m, chatUpdate, store);
     } catch (err) {
       console.log(err);
     }
