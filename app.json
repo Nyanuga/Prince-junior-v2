@@ -1,8 +1,8 @@
 {
-  "name": "NEXUS-XMD",
-  "description": "Javascript WhatsApp bot made by Pkdriller",
+  "name": "PRINCE-JUNIOR-V2",
+  "description": "Javascript WhatsApp bot made by Junior Ezed",
   "logo": "https://files.catbox.moe/o3mkn9.jpeg",
-  "keywords": ["NEXUS-XMD"],
+  "keywords": ["PRINC-JUNIOR-V2"],
   "success_url": "/",
 
     "stack": "container",
@@ -79,27 +79,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY NEXUS-XMD 🖤*"
+      "value": "*SEEN YOUR STATUS BY PRINCE-JUNIOR-V2 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Pkdriller"
+      "value": "Junior Ezed"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254794146821"
+      "value": "254723245807"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "NEXUS-XMD"
+      "value": "PRINCE-JUNIOR-V2"
 
       }, 
 
@@ -131,7 +131,7 @@
     "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Pkdriller*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Junior Ezed*"
     },
 
       "DELETE_LINKS": {
