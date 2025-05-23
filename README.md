@@ -39,7 +39,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ## ` Fork this repo`
 <p align="centre">
-<a href="https://github.com/Nyanuga/Prince-junior-v2/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="https://github.com/Nyanunga/Prince-Junior-v2/fork" width="160"></a>
+<a href="https://github.com/Nyanuga/Prince-junior-v2/fork"><img src="https://img.shields.io/badge/FORK%20REPO-Click%20Here-007ACC?style=for-the-badge&logo=github" alt="https://github.com/Nyanunga/Prince-Junior-v2/fork" width="160"></a>
 <p/>
   
 Linking/Pairing:
