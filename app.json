@@ -1,9 +1,9 @@
 {
-  "name": "Demon-slayer",
+  "name": "Prince-Junior-V2",
   "description": "Ok 3 devs made it.",
   "logo": "https://files.catbox.moe/5kvvfg.jpg",
-  "keywords": ["Demon-Slayer"],
-  "repository": "https://github.com/Demon-Slayer2/DEMONS-SLAYER-XMD",
+  "keywords": ["Prince-Junior-V2"],
+  "repository": "https://github.com/Nyanuga/Prince-junior-v2",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
