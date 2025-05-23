@@ -45,7 +45,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 Linking/Pairing:
 ### 𝗜𝗙 𝗧𝗛𝗘 𝗙𝗜𝗥𝗦𝗧 𝗜𝗦 𝗦𝗟𝗢𝗪 𝗨𝗦𝗘 𝗧𝗛𝗜𝗦
 <p align="centre">
-<a href="https://thankstoprincejuniorsessionid-7f12080db0e4.herokuapp.com//"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-pink?style=for-the-badge&logo=render"></a>
+<a href="https://exactlysuresessionid-ee65f74cb0c2.herokuapp.com/"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-pink?style=for-the-badge&logo=render"></a>
 <p/>            
 
 ###  𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨:
