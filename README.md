@@ -5,7 +5,7 @@
   
 <p align="center">
 
-[![JUNIOR](https://files.fm/u/m44v3gqasz)](https://github.com/Nyanuga)
+[![JUNIOR](https://files.catbox.moe/o0tfg3.jpg)](https://github.com/Nyanuga)
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=PRINCE+JUNIOR+V2+BOT" alt="">
