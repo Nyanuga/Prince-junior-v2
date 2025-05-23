@@ -14,10 +14,10 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Junior-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/TeddyDommie?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/TeddyDommie?label=Followers&style=social"></a>
-<a href="https://github.com/Nyanunga/Prince-Junior-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Nyanunga/Prince-Junior-v2?&style=social"></a>
-<a href="https://github.com/Nyanuga/Prince-junior-v2"><img title="Fork" src="[https://img.shields.io/github.com/Nyanuga/Prince-junior-v2/watchers?](https://github.com/Nyanuga/Prince-junior-v2/watchers)style=social"></a>
-<a href="https://github.com/Nyanunga/Prince-Junior-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Nyanunga/Prince-Junior-v2?label=Watching&style=social"></a>
+<a href="https://github.com/TeddyDommie?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Nyanuga?label=Followers&style=social"></a>
+<a href="https://github.com/Nyanunga/Prince-Junior-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Nyanunga/Prince-Junior-v2?&style=social"></a>
+<a href="/github.com/Nyanuga/Prince-junior-v2/fork"><img title="Fork" src="[https://img.shields.io/github.com/Nyanuga/Prince-junior-v2/watchers?](https://github.com/Nyanuga/Prince-junior-v2/watchers)style=social"></a>
+<a href="https://github.com/Nyanunga/Prince-Junior-v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Nyanunga/Prince-Junior-v2?label=Watching&style=social"></a>
 </p>
  
 
@@ -43,7 +43,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 <p/>
   
 Linking/Pairing:
-### 𝗜𝗙 𝗧𝗛𝗘 𝗙𝗜𝗥𝗦𝗧 𝗜𝗦 𝗦𝗟𝗢𝗪 𝗨𝗦𝗘 𝗧𝗛𝗜𝗦
+### GET SESSION ID HERE 
 <p align="centre">
 <a href="https://exactlysuresessionid-ee65f74cb0c2.herokuapp.com/"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-pink?style=for-the-badge&logo=render"></a>
 <p/>            
