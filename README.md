@@ -16,7 +16,7 @@
 <p align="center">
 <a href="https://github.com/TeddyDommie?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/TeddyDommie?label=Followers&style=social"></a>
 <a href="https://github.com/Nyanunga/Prince-Junior-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Nyanunga/Prince-Junior-v2?&style=social"></a>
-<a href="https://github.com/Nyanuga/Prince-junior-v2/forks"><img title="Fork" src="[https://img.shields.io/github.com/Nyanuga/Prince-junior-v2/watchers?](https://github.com/Nyanuga/Prince-junior-v2/watchers)style=social"></a>
+<a href="https://github.com/Nyanuga/Prince-junior-v2"><img title="Fork" src="[https://img.shields.io/github.com/Nyanuga/Prince-junior-v2/watchers?](https://github.com/Nyanuga/Prince-junior-v2/watchers)style=social"></a>
 <a href="https://github.com/Nyanunga/Prince-Junior-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Nyanunga/Prince-Junior-v2?label=Watching&style=social"></a>
 </p>
  
