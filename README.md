@@ -45,7 +45,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 Linking/Pairing:
 ### GET YOUR SESSION ID HERE 
 <p align="centre">
-<a href="https://exactlysuresessionid-ee65f74cb0c2.herokuapp.com/"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-pink?style=for-the-badge&logo=renderhttps://img.shields.io/badge/PRINCE%20JUNIOR%20V2%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://exactlysuresessionid-ee65f74cb0c2.herokuapp.com/"><img height= "37" title="Author" src="https://img.shields.io/badge/PRINCE%20JUNIOR%20V2%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <p/>            
 
 ###  𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨:
