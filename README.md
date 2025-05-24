@@ -1,8 +1,7 @@
 <h1>POWERED BY JUNIOR EZED</h1>
 
 <h1># 𝐏𝐑𝐈𝐍𝐂𝐄 𝐉𝐔𝐍𝐈𝐎𝐑 V2 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=40&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=🦋+▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭+🐇)](https://git.io/typing-svg
-  
+
 <p align="center">
 
 [![PRINCE JUNIOR NET TECH](https://files.catbox.moe/lp4rp2.jpg)](https://files.catbox.moe/lp4rp2.jpg)
