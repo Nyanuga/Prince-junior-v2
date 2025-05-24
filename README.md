@@ -11,7 +11,7 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=PRINCE+JUNIOR+V2+BOT" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Junior-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Junior-Ezed-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Nyanuga?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Nyanuga?label=Followers&style=social"></a>
