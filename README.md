@@ -1,4 +1,4 @@
-<h1>POWERED BY JUNIOR EZED</h1>
+<h1>POWERED BY JUNIOR♥️EZED</h1>
 
 
 
@@ -38,9 +38,9 @@ This is a highly customisable simple whatsapp bot with group management features
 
 Our AI features use random APIs to run, so sometimes they may be down.
 
-# SET-UP
+☄️ SET-UP
 
-` <h3>♥️♥️Fork this repo♥️♥️</h3>`
+ <h3>♥️♥️Fork this repo♥️♥️</h3>
 <p align="centre">
 <a href="https://github.com/Nyanuga/Prince-junior-v2/fork"><img src="https://img.shields.io/badge/FORK%20REPO-Click%20Here-007ACC?style=for-the-badge&logo=github" alt="https://github.com/Nyanunga/Prince-Junior-v2/fork" width="160"></a>
 <p/>
