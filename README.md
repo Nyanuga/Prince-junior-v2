@@ -11,7 +11,7 @@
 [![PRINCE JUNIOR NET TECH](https://files.catbox.moe/lp4rp2.jpg)](https://files.catbox.moe/lp4rp2.jpg)
 </p>
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=1BAFBAFF&center=true&width=1100&height=150&lines=PRINCE+JUNIOR+V2+BOT" alt="">
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=1BAFBAFF&center=true&width=1100&height=150&lines=PRINCE+JUNIOR+V2" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Junior Ezed-blue.svg?style=for-the-badge&logo=github"></a>
