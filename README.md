@@ -11,7 +11,7 @@
 [![PRINCE JUNIOR NET TECH](https://files.catbox.moe/lp4rp2.jpg)](https://files.catbox.moe/lp4rp2.jpg)
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=PRINCE+JUNIOR+V2+BOT_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=40&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=🦋+▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭+🐇)](https://git.io/typing-svg) 
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=PRINCE+JUNIOR+V2+Bot 
                 " alt="">
 </p>
 <p align="center">
