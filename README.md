@@ -8,7 +8,7 @@
 [![JUNIOR](https://files.catbox.moe/lp4rp2.jpg)](https://files.catbox.moe/lp4rp2.jpg)
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=DON'T+FORGET+TO+FOCK+AND+STAR+⭐+PRINCE+JUNIOR+V2+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=PRINCE+JUNIOR+V2+BOT" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Junior-blue.svg?style=for-the-badge&logo=github"></a>
@@ -25,7 +25,7 @@
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=254723245807&text=Hello+Junior"><img src="https://img.shields.io/badge/Contact JUNIOR EZED-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=254723245807&text=Hello+Junior"><img src="https://img.shields.io/badge/Contact J̥ͦUͦN̥ͦI̥ͦO̥ͦR̥ͦ E̥ͦZ̥ͦE̥ͦD̥ͦ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/Baileys)***
