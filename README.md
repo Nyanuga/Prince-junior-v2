@@ -1,4 +1,4 @@
-<h1>PRINCE JUNIOR V2 </h1>
+<h1>POWERED BY JUNIOR EZED</h1>
 
 <h1># 𝐏𝐑𝐈𝐍𝐂𝐄 𝐉𝐔𝐍𝐈𝐎𝐑 V2 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓</h1>
 
@@ -8,7 +8,7 @@
 [![JUNIOR](https://files.catbox.moe/lp4rp2.jpg)](https://files.catbox.moe/lp4rp2.jpg)
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=PRINCE+JUNIOR+V2+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=DON'T+FORGET+TO+FOCK+AND+STAR+⭐+PRINCE+JUNIOR+V2+BOT" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Junior-blue.svg?style=for-the-badge&logo=github"></a>
