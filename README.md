@@ -2,7 +2,7 @@
 
 
 
-<h1># 𝐏𝐑𝐈𝐍𝐂𝐄 𝐉𝐔𝐍𝐈𝐎𝐑 V2 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓</h1>
+<h1>🌹🏵️ 𝐏𝐑𝐈𝐍𝐂𝐄 𝐉𝐔𝐍𝐈𝐎𝐑 V2 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓♥️❣️</h1>
 
 <p align="center">
 
@@ -24,7 +24,7 @@
 </p>
  
 
-## ```F͎I͎N͎D͎ M͎E͎ H͎E͎R͎E͎ 👇👇```
+📱📞 ```F͎I͎N͎D͎ M͎E͎ H͎E͎R͎E͎ 👇👇🖥️💻```
 
 <p align="center">
 
@@ -33,25 +33,25 @@
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/Baileys)***
 
-## FEATURES
+💓💓 FEATURES
 This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of Openai.
 
 Our AI features use random APIs to run, so sometimes they may be down.
 
 # SET-UP
 
-## ` Fork this repo`
+♥️♥️ ` Fork this repo`
 <p align="centre">
 <a href="https://github.com/Nyanuga/Prince-junior-v2/fork"><img src="https://img.shields.io/badge/FORK%20REPO-Click%20Here-007ACC?style=for-the-badge&logo=github" alt="https://github.com/Nyanunga/Prince-Junior-v2/fork" width="160"></a>
 <p/>
   
 Linking/Pairing:
-### GET YOUR SESSION ID HERE 
+💥♥️ GET YOUR SESSION ID HERE ❣️❤️‍🔥
 <p align="centre">
 <a href="https://exactlysuresessionid-ee65f74cb0c2.herokuapp.com/"><img height= "37" title="Author" src="https://img.shields.io/badge/PRINCE%20JUNIOR%20V2%20-%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <p/>            
 
-###  𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨:
+🦴🩸💋  𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨:💌💟💚
 
 
  ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Nyanuga/Prince-Junior-v2&template=https://github.com/Nyanuga/Prince-Junior-v2.git)***
