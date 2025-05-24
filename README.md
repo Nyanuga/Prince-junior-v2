@@ -1,8 +1,12 @@
 <h1>POWERED BY JUNIOR EZED</h1>
 
+
+
 <h1># 𝐏𝐑𝐈𝐍𝐂𝐄 𝐉𝐔𝐍𝐈𝐎𝐑 V2 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓</h1>
 
 <p align="center">
+
+
 
 [![PRINCE JUNIOR NET TECH](https://files.catbox.moe/lp4rp2.jpg)](https://files.catbox.moe/lp4rp2.jpg)
 </p>
