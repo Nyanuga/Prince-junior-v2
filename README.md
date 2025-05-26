@@ -38,7 +38,7 @@
 - ✅ Session Sharing System  
 - ✅ Fully Open Source  
 - ✅ Auto QR to DM  
-- ✅ Session ID Generator (`PRINCE-SESSION-V2`)  
+- ✅ Session ID Generator (`PRINCE-JUNIOR-V2-SESSION`)  
 - ✅ Multi Deploy Options (Render, Heroku, Koyeb, etc.)
 
 ☄️ SET-UP
