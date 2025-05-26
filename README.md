@@ -100,20 +100,26 @@ Copyright (c) 2025 <h5>𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 JUNIOR<</h5
 
 
 
+### ⚙️ Configuration `.env` File
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+```env
+SESSION_ID="PRINCE~JUNIOR~V2~"
+AUTO_READ_STATUS=true
+STATUS_READ_MSG="*Status Seen By PRINCE JUNIOR V2 ⚡*"
+AUTO_STATUS_REPLY=false
+AUTO_REJECT_CALLS=false
+MODE="public"
+WELCOME=false
+AUTO_READ_MESSAGES=false
+AUTO_TYPING=false
+OWNER_NAME="JUNIOR EZED"
+OWNER_NUMBER="254723245807"
+AUTO_RECORDING=false
+ALWAYS_ONLINE=false
+AUTO_BLOCK=true
+AUTO_REACT=false
+PREFIX="."
+```
 
 
 ``` DEPLOY ON WORKFLOW ⚡
