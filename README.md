@@ -74,12 +74,49 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 [MIT License](https://github.com/Nyanuga/PRINCE-JUNIOR-V2/blob/main/LICENSE)
 
-Copyright (c) 2025 <h5>𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 JUNIOR<</h5>
+Copyright (c) 2025 <h5>𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 JUNIOR<</h5
 
 
-    
 
-    ``` DEPLOY ON WORKFLOW ⚡
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+``` DEPLOY ON WORKFLOW ⚡
 
 name: Node.js CI
 
