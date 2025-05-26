@@ -34,10 +34,12 @@
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/Baileys)***
 
 💓💓 FEATURES
-This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of Openai.
-
-Our AI features use random APIs to run, so sometimes they may be down.
-
+- ✅ QR Code Generator for WhatsApp Pairing  
+- ✅ Session Sharing System  
+- ✅ Fully Open Source  
+- ✅ Auto QR to DM  
+- ✅ Session ID Generator (`PRINCE-SESSION-V2`)  
+- ✅ Multi Deploy Options (Render, Heroku, Koyeb, etc.)
 ☄️ SET-UP
 
  <h3>♥️♥️Fork this repo♥️♥️</h3>
