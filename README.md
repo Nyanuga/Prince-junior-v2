@@ -47,10 +47,7 @@
 <p align="centre">
 <a href="https://github.com/Nyanuga/Prince-junior-v2/fork"><img src="https://img.shields.io/badge/FORK%20REPO-Click%20Here-007ACC?style=for-the-badge&logo=github" alt="https://github.com/Nyanunga/Prince-Junior-v2/fork" width="160"></a>
 <p/>
-## ` Pair onrender`
-<p align="centre">
-<a href="https://mzazi-xmd-session-1.onrender.com"><img height= "37" title="Author" src="(https://img.shields.io/badge/PRINCE%20JUNIOR%20V2%20-%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)"></a>
-<p/>  
+
 
 <h4>💥♥️ GET YOUR SESSION ID HERE ❣️❤️‍🔥</h4>
 <p align="centre">
