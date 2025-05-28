@@ -49,7 +49,7 @@
 <p/>
 ## ` Pair onrender`
 <p align="centre">
-<a href="https://mzazi-xmd-session-1.onrender.com"><img height= "37" title="Author" src="[https://img.shields.io/badge/Session-pink?style=for-the-badge&logo=render](https://img.shields.io/badge/PRINCE%20JUNIOR%20V2%20-%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://mzazi-xmd-session-1.onrender.com"><img height= "37" title="Author" src="(https://img.shields.io/badge/PRINCE%20JUNIOR%20V2%20-%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)"></a>
 <p/>  
 
 <h4>💥♥️ GET YOUR SESSION ID HERE ❣️❤️‍🔥</h4>
