@@ -108,5 +108,5 @@ Copyright (c) 2025 <h5>𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 JUNIOR EZED</h5>
 
 
 
-
+<h4>Registration fee is One hundred only you pay once after activating the you account DM for further guidance</h4>
 
