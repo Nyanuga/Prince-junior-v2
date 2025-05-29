@@ -24,7 +24,7 @@
 </p>
  
 
-📱📞 ```F͎I͎N͎D͎ M͎E͎ H͎E͎R͎E͎ 👇👇🖥️💻```
+📱📞 ```𖣘⍟✪F͎I͎N͎D͎ M͎E͎ H͎E͎R͎E͎✯༆☆✯ 👇👇🖥️💻```
 
 <p align="center">
 
@@ -41,13 +41,13 @@
 - ✅ Session ID Generator (`PRINCE-JUNIOR-V2-SESSION`)  
 - ✅ Multi Deploy Options (Render, Heroku, Koyeb, etc.)
 
-☄️ SET-UP
+☄️ 🇸 🇪 🇹  🇺 🇵 
 
- <h3>♥️♥️Fork this repo♥️♥️</h3>
+ <h3>♥️♥️✰Fork this repo𑁍♥️♥️</h3>
 <p align="centre">
 <a href="https://github.com/Nyanuga/Prince-junior-v2/fork"><img src="https://img.shields.io/badge/FORK%20REPO-Click%20Here-007ACC?style=for-the-badge&logo=github" alt="https://github.com/Nyanunga/Prince-Junior-v2/fork" width="160"></a>
 <p/>
-<h4>💥♥️ GET YOUR SESSION ID HERE OPTION ONE❣️❤️‍🔥</h4>
+<h4>💥♥️ G͟E͟T͟ YOUR SESSION ID HERE OPTION ONE❣️❤️‍🔥</h4>
 <p align="centre">
 <a href="https://session-id-generator-by-prince-junior-1.onrender.com/"><img height= "37" title="Author" src="https://img.shields.io/badge/PRINCE%20JUNIOR%20V2%20-%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <p/>
