@@ -26,7 +26,7 @@ const config = {
   MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/o3mkn9.jpeg",
   DESCRIPTION: process.env.DESCRIPTION || "WELCOME TO PRINCE JUNIOR V2",
   OWNER_NAME: process.env.OWNER_NAME || "INCONNU-XD",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "554488138425",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "254723245807",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
