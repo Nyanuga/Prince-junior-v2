@@ -23,7 +23,7 @@ const config = {
   NOT_ALLOW: process.env.NOT_ALLOW !== undefined ? process.env.NOT_ALLOW === 'true' : true,
   MODE: process.env.MODE || "public",
   BOT_NAME: process.env.BOT_NAME || "PRINCE JUNIOR V2",
-  MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/230q0c.jpg",
+  MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/o3mkn9.jpeg",
   DESCRIPTION: process.env.DESCRIPTION || "WELCOME TO PRINCE JUNIOR V2",
   OWNER_NAME: process.env.OWNER_NAME || "INCONNU-XD",
   OWNER_NUMBER: process.env.OWNER_NUMBER || "554488138425",
